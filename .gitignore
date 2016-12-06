@@ -1,0 +1,5 @@
+*.src.rpm
+*.swp
+*~
+/results_leiningen
+/leiningen-2.7.1-standalone.zip
